@@ -13,11 +13,14 @@ font-family: 'Libre Baskerville', serif;
   background-color: #6E75CD;
 }
 
-
-
 h3{
   margin-top: 5px;
 }
+
+.team{
+  margin-top: 7px;
+}
+
 .top {
   margin: 2px 5px;
 }
