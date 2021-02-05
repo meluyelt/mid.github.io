@@ -1,0 +1,63 @@
+body {
+text-align: center;
+background-color: #d3e0ea;
+font-family: 'Libre Baskerville', serif;
+}
+
+#who::before {
+  content: "";
+  display: block;
+  width: 80%;
+  height: 2px;
+  margin: 40px auto 0;
+  background-color: #6E75CD;
+}
+
+
+
+h3{
+  margin-top: 5px;
+}
+.top {
+  margin: 2px 5px;
+}
+
+.access{
+  margin-top: 100px;
+}
+
+#slide {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+  width: 70%;
+}
+
+.btn-primary {
+  margin: 10px auto;
+}
+
+.card {
+  display: inline-flex;
+  justify-content: space-around;
+  margin-left: 3%;
+  margin-top: 40px;
+  margin-bottom: 10px;
+}
+
+.photo {
+  width: 80%;
+  margin-left: 10%;
+  margin-top: 40px;
+}
+
+#bottom{
+  background-color: black;
+  color: white;
+  padding: 5%;
+}
+
+.last{
+  font-size: 20px;
+}
